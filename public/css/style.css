@@ -1,0 +1,13 @@
+.mainCont{
+  padding-top: 4.5%;
+}
+.formINP{
+  background-color: rgb(199, 199, 199);
+  border: 2px solid black;
+}
+.formOPT{
+  background-color:rgba(240, 255, 240, 0.605);
+}
+.Mainitem{
+  min-height: 90vh;
+}
